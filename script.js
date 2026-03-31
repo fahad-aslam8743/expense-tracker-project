@@ -44,7 +44,7 @@ const handle = (e)=>{
     const {value: text} = Elements.text;
     const {value : amt} = Elements.amount;
 
-    if(!text.trim() || !amt.trim()) return alert('Ayyeeeeeeee Kutya! Koi Values To Daal!');
+    if(!text.trim() || !amt.trim()) return alert('Please enter the values!');
 
     const newTransactions = {
         id: crypto.randomUUID(),
