@@ -2,7 +2,7 @@
 
 A lightweight, efficient, and interactive finance management tool built entirely with **Vanilla JavaScript**, **HTML5**, and **CSS3**. This project marks my fundamental journey into DOM manipulation, state management, and data persistence without the aid of frameworks.
 
-**🔗 Live Demo:** [Your-Vercel-Link-Here]
+**🔗 Live Demo:** [fahad-aslam8743.github.io/expense-tracker-project]
 
 ---
 
